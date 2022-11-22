@@ -14,7 +14,7 @@ nbformat==4.4.0
 numpy==1.16.2
 pandas==0.24.2
 peewee==3.9.5
-Pillow==6.0.0
+Pillow==9.3.0
 plotly==3.9.0
 pyparsing==2.4.0
 pyrsistent==0.15.1
